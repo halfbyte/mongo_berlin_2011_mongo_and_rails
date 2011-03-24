@@ -1,0 +1,27 @@
+#preso, .slide {
+  background-color: #000;
+}
+.content {
+  background-color: #000;
+  color: white;
+  font-family: DINOT;
+}
+h1, h2, h3 {
+  font-weight: 500;
+  text-align: left;
+  margin: 0.5em 100px;
+}
+
+a {
+  color: #fff;
+}
+a:hover {
+  color: #ff0;
+}
+
+.content::after {
+  position: absolute;
+  right: 0px;
+  top: 0px;
+    content: url(mindmatters-logo.gif);
+}

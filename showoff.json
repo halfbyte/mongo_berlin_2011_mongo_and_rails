@@ -1,1 +1,9 @@
-{ "name": "Rails and MongoDB, a perfect match?!", "sections": [ {"section":"intro"} ]}
+{ 
+  "name": "Rails and MongoDB, a perfect match?!", 
+  "sections": [ 
+    {"section":"intro"}, 
+    {"section": "buildup"},
+    {"section": "teardown"},
+    {"section": "epilogue"}
+  ]
+}
